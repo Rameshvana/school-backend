@@ -1,0 +1,95 @@
+
+
+
+
+
+
+          .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+          }
+          
+          .table-auto {
+            width: 100%;
+            border-collapse: collapse;
+          }
+          
+          .table-auto th, .table-auto td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+          }
+          
+          .table-auto th {
+            background-color: #f0f0f0;
+          }
+          
+          .action-button {
+            background-color: transparent;
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+          }
+          
+          .action-button:hover {
+            background-color: #3e8e41;
+          }
+          
+          .edit-butto {
+            background-color: #03A9F4;
+          }
+          
+          .edit-button:hover {
+            background-color: #039BE5;
+          }
+          
+          .delete-butto {
+            background-color: #FF0000;
+          }
+          
+          .delete-button:hover {
+            background-color: #CC0000;
+          }
+          
+          .teacher-form {
+            margin-top: 30px;
+          }
+          
+          .form-group {
+            margin-bottom: 20px;
+          }
+          
+          .input-field {
+            width: 100%;
+            height: 40px;
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+          }
+          
+          .input-field:focus {
+            border-color: #aaa;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          }
+          
+          .submit-button {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+          }
+          
+          .submit-button:hover {
+            background-color: #3e8e41;
+          }
+
+          
